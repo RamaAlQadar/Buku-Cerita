@@ -1,39 +1,53 @@
-# 🌡️ Aplikasi Konversi Satuan
+# 📖 Buku Cerita Anak — *Jelajah Fantasy*
 
-Aplikasi ini dibuat untuk melakukan berbagai konversi satuan, meliputi:
-- 🔥 Konversi Suhu  
-- ⚖️ Konversi Massa  
-- 📐 Konversi Luas  
-- 📏 Konversi Jarak  
+Aplikasi interaktif untuk membaca dan mendengarkan cerita anak dengan tampilan menarik serta fitur suara otomatis menggunakan **Google Text-to-Speech (TTS)**.  
+Dibuat menggunakan **Android Studio (Java)** dengan antarmuka yang ramah anak dan penuh warna.
 
 ---
 
-## 📱 Tampilan Aplikasi
+## 🖼️ Tampilan Aplikasi
 
-### 🧭 Navigasi Utama
+### 🏠 Halaman Navigasi
+Tampilan awal aplikasi dengan tombol **Mulai Membaca**, **Bagikan Aplikasi**, dan **Beri Ulasan**.
+  
 ![Navigasi](screenshots/navigasi.jpg)
 
-### 🌡️ Konversi Suhu
-![Konversi Suhu](screenshots/suhu.jpg)
+---
 
-### ⚖️ Konversi Massa
-![Konversi Massa](screenshots/massa.jpg)
-
-### 📐 Konversi Luas
-![Konversi Luas](screenshots/luas.jpg)
-
-### 📏 Konversi Jarak
-![Konversi Jarak](screenshots/jarak.jpg)
+### 🐦 Asal Mula Suara Burung Tekukur
+Halaman cerita pertama dengan gambar dan teks narasi yang dapat dibacakan oleh suara Google.
+  
+![Burung Tekukur](screenshots/news_tekukur.jpg)
 
 ---
 
-## 👨‍💻 Pengembang
+### 🦊 Kalah oleh Si Cerdik
+Cerita kedua dengan tampilan gambar dan teks yang rapi.
+  
+![Si Cerdik](screenshots/news_cerdik.jpg)
+
+---
+
+### 🐹 Asal Mula Tabiat Musang
+Cerita ketiga dengan ilustrasi dan narasi yang dapat dibacakan secara otomatis.
+  
+![Musang](screenshots/news_musang.jpg)
+
+---
+
+## 💡 Keterangan
+- Desain **UI/UX ramah anak** dan mudah digunakan.  
+- Fitur **Text-to-Speech (TTS)** untuk membacakan cerita otomatis.  
+- Cerita dan gambar dikelola melalui file `data.json` dan folder `assets/image`.  
+
+---
+
+## 👤 Identitas Pengembang
 **Nama:** Muhammad Al Qadar Ramadhan  
 **NIM:** 237200003  
 
 ---
 
-## 🧾 Catatan
-Project ini dikembangkan menggunakan **Android Studio** dengan bahasa pemrograman **Java**.  
-Seluruh tampilan dan fungsi dirancang untuk memudahkan pengguna dalam memahami konversi satuan secara interaktif.
+© 2025 Buku Cerita Anak — *Jelajah Fantasy*
+
 
